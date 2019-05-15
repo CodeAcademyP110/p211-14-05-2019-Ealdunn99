@@ -1,0 +1,7 @@
+C:\Users\ealdu\Documents\MEGA\C#\14may\homework\homework\bin\Debug\homework.exe.config
+C:\Users\ealdu\Documents\MEGA\C#\14may\homework\homework\bin\Debug\homework.exe
+C:\Users\ealdu\Documents\MEGA\C#\14may\homework\homework\bin\Debug\homework.pdb
+C:\Users\ealdu\Documents\MEGA\C#\14may\homework\homework\obj\Debug\homework.csprojAssemblyReference.cache
+C:\Users\ealdu\Documents\MEGA\C#\14may\homework\homework\obj\Debug\homework.csproj.CoreCompileInputs.cache
+C:\Users\ealdu\Documents\MEGA\C#\14may\homework\homework\obj\Debug\homework.exe
+C:\Users\ealdu\Documents\MEGA\C#\14may\homework\homework\obj\Debug\homework.pdb
